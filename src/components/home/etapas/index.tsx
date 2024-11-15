@@ -10,7 +10,7 @@ export function Etapas() {
         <Container>
             <div id="etapas" title="etapas" className="max-w-screen-xl py-8 m-auto xl:pr-2 xl:pl-2">
                 <section className="flex flex-col gap-4">
-                    <h2 className="text-4xl font-bold font-medium text-[#97872c] text-center mt-6 mb-6">Nossas Etapas de Limpeza</h2>
+                    <h2 className="text-4xl font-bold text-[#97872c] text-center mt-6 mb-6">Nossas Etapas de Limpeza</h2>
                     <motion.div 
                         ref={ref} 
                         initial={{ opacity: 0, y: 100 }} 

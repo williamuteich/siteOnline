@@ -1,4 +1,3 @@
-import { Container } from "@/components/home/container";
 import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer"; 
